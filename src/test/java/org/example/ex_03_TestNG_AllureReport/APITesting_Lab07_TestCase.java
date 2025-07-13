@@ -1,4 +1,4 @@
-package org.example.TestNG_AllureReport;
+package org.example.ex_03_TestNG_AllureReport;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;

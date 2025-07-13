@@ -1,4 +1,4 @@
-package org.example.RA_Concepts;
+package org.example.ex_02_RA_Concepts;
 
 public class APITesting_Lab04_BuilderPattern {
     public APITesting_Lab04_BuilderPattern step1()
