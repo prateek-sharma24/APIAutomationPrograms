@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pincode Verification Project">
+    <test verbose="2" preserve-order="true" name="APIAutomationPrograms">
+        <groups>
+            <run>
+                <include name="reg">
+                </include>
+                <exclude name="p1">
+                </exclude>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.ex_05_TestNGExamples.APITesting017_TestNG_Groups">
+
+            </class>
+
+        </classes>
+    </test>
+</suite>
