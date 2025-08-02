@@ -22,6 +22,7 @@
       <version>5.5.5</version>
       <scope>test</scope>
     </dependency>
+<<<<<<< HEAD
     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
     <dependency>
       <groupId>org.testng</groupId>
@@ -54,6 +55,8 @@
       <version>2.10.1</version> <!-- or latest stable -->
     </dependency>
 
+=======
+>>>>>>> a6ca12c6316a4da125942d49d42778ebad290f3f
     <!-- Add updated commons-codec manually -->
     <dependency>
       <groupId>commons-codec</groupId>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationPrograms"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.565">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_createBooking_POST"
+                time="5.565"
+                classname="org.example.ex_06_TestAssertions.APITesting025_RestAssured_Assertions">
+            </testcase>
+</testsuite>

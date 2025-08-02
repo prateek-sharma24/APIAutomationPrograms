@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationPrograms"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.003">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_POST"
+                time="6.003"
+                classname="APITesting028_RestAssured_Payload_Map">
+            </testcase>
+</testsuite>

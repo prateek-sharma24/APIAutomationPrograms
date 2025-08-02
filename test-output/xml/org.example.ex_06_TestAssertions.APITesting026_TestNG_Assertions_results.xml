@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationPrograms"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.033">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_softAssertExample"
+                time="0.033"
+                classname="org.example.ex_06_TestAssertions.APITesting026_TestNG_Assertions">
+            </testcase>
+</testsuite>

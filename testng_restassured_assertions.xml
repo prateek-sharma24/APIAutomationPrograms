@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pincode Verification Project">
+    <test verbose="2" preserve-order="true" name="APIAutomationPrograms">
+
+        <classes>
+            <class name="org.example.ex_06_TestAssertions.APITesting025_RestAssured_Assertions">
+
+            </class>
+
+        </classes>
+    </test>
+</suite>
