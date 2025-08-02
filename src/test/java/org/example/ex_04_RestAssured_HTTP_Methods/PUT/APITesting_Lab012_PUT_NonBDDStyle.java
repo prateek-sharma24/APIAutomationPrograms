@@ -28,7 +28,7 @@ public class APITesting_Lab012_PUT_NonBDDStyle {
                 "    \"lastname\" : \"Sharma\",\n" +
                 "    \"totalprice\" : 111,\n" +
                 "    \"depositpaid\" : true,\n" +
-                "    \"bookingdates\" : {\n" +
+                "    \"BookingDates\" : {\n" +
                 "        \"checkin\" : \"2018-01-01\",\n" +
                 "        \"checkout\" : \"2019-01-01\"\n" +
                 "    },\n" +
